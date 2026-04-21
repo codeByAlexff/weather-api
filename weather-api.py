@@ -4,7 +4,7 @@ import redis
 import time
 import json
 
-API_KEY = '7931862415422832062948c585fddc67'
+API_KEY = ''
 
 cache = redis.Redis()
 
